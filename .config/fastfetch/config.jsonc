@@ -47,6 +47,11 @@
         "keyColor": "yellow"
       },
       {
+        "type": "uptime",
+        "key": "   Uptime",
+        "keyColor": "yellow"
+      },
+      {
         "type": "custom",
         "format": "└──────────────────────────────────────────┘"
       },
